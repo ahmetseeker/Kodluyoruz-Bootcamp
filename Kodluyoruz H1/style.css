@@ -1,0 +1,14 @@
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#user-form {
+  display: none;
+}
+
+#gf {
+  position: relative;
+  left: 500px;
+
+}
